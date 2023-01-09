@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host=localhost --port=4200",
-    "start": "vite preview --cors --host",
+    "start": "vite --host",
     "build": "tsc && vite build",
     "preview": "vite preview --host"
   },
